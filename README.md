@@ -15,8 +15,8 @@ Un mini proyecto web que muestra frases inspiradoras de personajes icónicos del
 - HTML5
 - CSS3
 - JavaScript (vanilla)
-- GitHub Pages (para el deploy)
-- JSON local (para las frases)
+- GitHub Pages
+- JSON local
 
 ---
 
