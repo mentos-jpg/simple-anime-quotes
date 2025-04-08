@@ -1,4 +1,4 @@
-# 🎌 Generador de Frases de Anime
+# 🎌 Generador de Frases de Anime v1.0
 
 Un mini proyecto web que muestra frases inspiradoras de personajes icónicos del anime. Motivación otaku 💥🍙
 
