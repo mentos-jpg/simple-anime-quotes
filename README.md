@@ -51,7 +51,3 @@ Hecho sin miedo por Eduardo ⚡
 Contacto: edavila2804@gmail.com
 
 ---
-
-## 🧠 Licencia
-
-Este proyecto es de uso libre. Compartí, modificá y disfrutá mientras recordás que “con gran poder, viene gran responsabilidad” 🕷️✨
