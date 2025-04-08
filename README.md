@@ -6,8 +6,7 @@ Un mini proyecto web que muestra frases inspiradoras de personajes icónicos del
 
 ## 🚀 Demo en vivo
 
-👉 [por actualizar](por actualizar)  
-(Actualiza el link con el tuyo cuando lo subas)
+👉  https://mentos-jpg.github.io/simple-anime-quotes/ 
 
 ---
 
@@ -42,13 +41,13 @@ Un mini proyecto web que muestra frases inspiradoras de personajes icónicos del
 
 ## 📸 Vista previa
 
-> (por actualizar)
+> ![image](https://github.com/user-attachments/assets/b1aa26eb-2b51-4642-a079-f0d5e4a93940)
 
 ---
 
 ## 💬 Autor
 
-Hecho con amor por Eduardo ⚡  
+Hecho sin miedo por Eduardo ⚡  
 Contacto: edavila2804@gmail.com
 
 ---
